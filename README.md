@@ -1,5 +1,5 @@
 # PrunePDF
-Automatically detect and remove duplicate slides from PDF presentations.
+Automatically detect and remove redundant incrementally built slides from PDF presentations.
 
 ## Overview
 PrunePDF is a simple **Python** tool that cleans up PDF presentations by detecting and removing duplicate slides.
